@@ -1,0 +1,13 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css"
+<title>A guide to my country</title>
+<link rel= type="text.css" href="html.css">
+</head>
+<body>
+<h1 style="text-align: center">Welome</h1>
+<h2 style="text-align: center">To</h2>
+<h3 style="text-align: center">India</h3>
+<p style="text-align: center">
+<img src="D:\map.jpg" width=500>
+</p>
